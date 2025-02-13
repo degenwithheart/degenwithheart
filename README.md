@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Stuart Moseley! 👋
 
-<!--
-**stuartmoseley/stuartmoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=stuartmoseley&color=blue)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and DevOps. I love to learn new technologies and collaborate with others to build innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+
+## 🌱 What I'm Currently Learning
+
+- Advanced Kubernetes techniques
+- Serverless architecture with AWS Lambda
+- React and modern frontend development
+
+## 💼 Professional Experience
+
+- **Software Engineer** at [Tech Company](https://techcompany.com) (2021 - Present)
+  - Developed and maintained microservices using Python and Docker.
+  - Implemented CI/CD pipelines using GitHub Actions and Jenkins.
+  - Collaborated with cross-functional teams to deliver high-quality software.
+
+- **DevOps Engineer** at [Cloud Solutions](https://cloudsolutions.com) (2019 - 2021)
+  - Managed cloud infrastructure on AWS and Azure.
+  - Automated infrastructure provisioning using Terraform and Ansible.
+  - Monitored and optimized application performance.
+
+## 📫 How to Reach Me
+
+- Email: stuart.moseley@example.com
+- LinkedIn: [Stuart Moseley](https://linkedin.com/in/stuartmoseley)
+- Twitter: [@stuartmoseley](https://twitter.com/stuartmoseley)
+
+## 📈 GitHub Stats
+
+![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartmoseley&show_icons=true&theme=radical)
+
+## 🏆 Top Projects
+
+- [Project 1](https://github.com/stuartmoseley/project1): Description of project 1.
+- [Project 2](https://github.com/stuartmoseley/project2): Description of project 2.
+- [Project 3](https://github.com/stuartmoseley/project3): Description of project 3.
+
+Feel free to check out my repositories and connect with me! Let's build something amazing together!
