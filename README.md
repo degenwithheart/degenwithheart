@@ -80,7 +80,6 @@ Let’s build something amazing together! 🔥
 - [OpenAI-PHP-AI](https://github.com/stuartmoseley/OpenAI-PHP-AI): An AI development project using OpenAI and PHP.  
 - [The-Machine](https://github.com/stuartmoseley/The-Machine): A project focusing on machine learning and AI development.  
 - [AI-Development-Assistant](https://github.com/stuartmoseley/AI-Development-Assistant): An AI development assistant tool using Python.  
-- [Konek](https://github.com/stuartmoseley/Konek): A private social networking project.  
 
 Feel free to check out my repositories and connect with me! Let's build something amazing together! 🚀  
 
