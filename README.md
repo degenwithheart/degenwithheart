@@ -21,23 +21,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Serverless architecture with AWS Lambda
 - React and modern frontend development
 
-## 💼 Professional Experience
-
-- **Software Engineer** at [Tech Company](https://techcompany.com) (2021 - Present)
-  - Developed and maintained microservices using Python and Docker.
-  - Implemented CI/CD pipelines using GitHub Actions and Jenkins.
-  - Collaborated with cross-functional teams to deliver high-quality software.
-
-- **DevOps Engineer** at [Cloud Solutions](https://cloudsolutions.com) (2019 - 2021)
-  - Managed cloud infrastructure on AWS and Azure.
-  - Automated infrastructure provisioning using Terraform and Ansible.
-  - Monitored and optimized application performance.
-
 ## 📫 How to Reach Me
 
+- GitHub: [styuartmozli](https://github.com/styuartmozli)
+- Freelancer: [illumibateaternu](https://www.freelancer.com/u/illumibateaternu)
 - Email: stuart.moseley@example.com
-- LinkedIn: [Stuart Moseley](https://linkedin.com/in/stuartmoseley)
-- Twitter: [@stuartmoseley](https://twitter.com/stuartmoseley)
 
 ## 📈 GitHub Stats
 
@@ -50,7 +38,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - [OpenAI-PHP-AI](https://github.com/stuartmoseley/OpenAI-PHP-AI): An AI development project using OpenAI and PHP.
 - [The-Machine](https://github.com/stuartmoseley/The-Machine): A project focusing on machine learning and AI development.
 - [AI-Development-Assistant](https://github.com/stuartmoseley/AI-Development-Assistant): An AI development assistant tool using Python.
-- [Konek](https://github.com/stuartmoseley/Konek): A private project using Smarty.
-- [social](https://github.com/stuartmoseley/social): A private social networking project.
+- [Konek](https://github.com/stuartmoseley/Konek): A private social networking project.
 
 Feel free to check out my repositories and connect with me! Let's build something amazing together!
