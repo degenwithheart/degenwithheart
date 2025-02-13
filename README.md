@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stuartmoseley&color=blue)
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and DevOps. I love to learn new technologies and collaborate with others to build innovative solutions.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in AI, training personal models, open-source projects, cloud computing, and DevOps. I love to learn new technologies and collaborate with others to build innovative solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -45,8 +45,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🏆 Top Projects
 
-- [Project 1](https://github.com/stuartmoseley/project1): Description of project 1.
-- [Project 2](https://github.com/stuartmoseley/project2): Description of project 2.
-- [Project 3](https://github.com/stuartmoseley/project3): Description of project 3.
+- [VPN-Server](https://github.com/stuartmoseley/VPN-Server): A robust VPN server implementation using Python.
+- [VPN-Client-with-Traffic-Monitoring](https://github.com/stuartmoseley/VPN-Client-with-Traffic-Monitoring): A VPN client with integrated traffic monitoring capabilities.
+- [OpenAI-PHP-AI](https://github.com/stuartmoseley/OpenAI-PHP-AI): An AI development project using OpenAI and PHP.
+- [The-Machine](https://github.com/stuartmoseley/The-Machine): A project focusing on machine learning and AI development.
+- [AI-Development-Assistant](https://github.com/stuartmoseley/AI-Development-Assistant): An AI development assistant tool using Python.
+- [Konek](https://github.com/stuartmoseley/Konek): A private project using Smarty.
+- [social](https://github.com/stuartmoseley/social): A private social networking project.
 
 Feel free to check out my repositories and connect with me! Let's build something amazing together!
