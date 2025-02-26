@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stuartmoseley&color=blue)  
 
-I'm a passionate software developer with a strong focus on AI, AR/VR, cloud computing, DevOps, and full-stack development. I specialize in training personal AI models, working on open-source projects, and building scalable solutions in the cloud.
+I'm a passionate software developer with a strong focus on AI, AR/VR, cloud computing, DevOps, and full-stack development. I specialize in training personal AI models, working on open-source projects, and creating innovative solutions.
 
-With a growing expertise in game development using Unity and Unreal Engine, I'm particularly interested in integrating AI into AR/VR environments to create immersive and intelligent experiences. I’m always learning new technologies and love collaborating on innovative, cutting-edge projects.
+With a growing expertise in game development using Unity and Unreal Engine, I'm particularly interested in integrating AI into AR/VR environments to create immersive and intelligent experiences.
 
 Let’s build something amazing together! 🔥
 
@@ -61,9 +61,9 @@ Let’s build something amazing together! 🔥
 
 ## 📫 How to Reach Me  
 
-- **GitHub**: [styuartmozli](https://github.com/styuartmozli)  
+- **GitHub**: [stuartmoseley](https://github.com/stuartmoseley)  
 - **Freelancer**: [illumibateaternu](https://www.freelancer.com/u/illumibateaternu)  
-- **Email**: stuart.moseley@example.com  
+- **Email**: stuartmoseley2025@icloud.com  
 
 ---
 
@@ -84,3 +84,8 @@ Let’s build something amazing together! 🔥
 Feel free to check out my repositories and connect with me! Let's build something amazing together! 🚀  
 
 ---
+
+## ☕ Support My Work
+If you find my work useful or interesting, consider supporting me to keep me going!
+
+<a href="https://www.buymeacoffee.com/stewiemo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=stewiemo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
