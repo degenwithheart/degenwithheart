@@ -75,12 +75,11 @@ Let’s build something amazing together! 🔥
 
 ## 🏆 Top Projects  
 
-- [VPN-Server](https://github.com/stuartmoseley/VPN-Server): A robust VPN server implementation using Python.  
-- [VPN-Client-with-Traffic-Monitoring](https://github.com/stuartmoseley/VPN-Client-with-Traffic-Monitoring): A VPN client with integrated traffic monitoring capabilities.  
+- [SentienceX-AI](https://github.com/stuartmoseley/SentienceX-AI): A project focusing on machine learning and AI development for health and well-being. 
 - [OpenAI-PHP-AI](https://github.com/stuartmoseley/OpenAI-PHP-AI): An AI development project using OpenAI and PHP.  
-- [The-Machine](https://github.com/stuartmoseley/The-Machine): A project focusing on machine learning and AI development.  
-- [AI-Development-Assistant](https://github.com/stuartmoseley/AI-Development-Assistant): An AI development assistant tool using Python.  
-
+- [VPN-Server](https://github.com/stuartmoseley/VPN-Server): A robust VPN server implementation using Python.  
+- [VPN-Client-with-Traffic-Monitoring](https://github.com/stuartmoseley/VPN-Client-with-Traffic-Monitoring): A VPN client with integrated traffic monitoring capabilities.
+  
 Feel free to check out my repositories and connect with me! Let's build something amazing together! 🚀  
 
 ---
