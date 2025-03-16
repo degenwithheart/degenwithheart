@@ -1,3 +1,11 @@
+<div style="position: relative; width: 100%; height: 300px; overflow: hidden;">
+  <img src="./paradoxical-effect.svg" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: -1; opacity: 0.5;">
+  <div style="position: relative; z-index: 1; padding: 20px;">
+    <h1>Hi, I'm Stuart Moseley</h1>
+    <p>Welcome to my GitHub profile! Here you'll find my projects, contributions, and more.</p>
+  </div>
+</div>
+
 # Hi there, I'm Stuart Moseley! 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stuartmoseley&color=blue)  
