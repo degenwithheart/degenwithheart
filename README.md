@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Stuart%20Moseley&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=F7F9FB" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hi+there!+I'm+Stuart+Moseley" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="images/github-contribution-grid-snake.svg" />
-  </picture>
+  <br/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/stuartmoseley/stuartmoseley/main/images/github-contribution-grid-snake-dark.svg" />
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuartmoseley&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
   </div>
@@ -19,9 +15,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="50" height="50" style="margin-right: 10px;">
     <b>About Me</b>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="50" height="50" style="margin-left: 10px;">
   </h2>
 </div>
 
@@ -47,7 +41,7 @@
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=stuartmoseley&show_icons=true&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartmoseley&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartmoseley&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px" style="display:block;margin-top:6px;"/>
       </td>
     </tr>
   </table>
@@ -55,9 +49,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QssGEMsQ6mpkeOEhBC/giphy.gif" width="30" height="30" style="margin-right: 10px;">
     <b>Tech Stack</b>
-    <img src="https://media.giphy.com/media/QssGEMsQ6mpkeOEhBC/giphy.gif" width="30" height="30" style="margin-left: 10px;">
   </h2>
 </div>
 <table>
@@ -132,9 +124,7 @@ Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love,
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
     <b>Visitor Count</b>
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
   </h2>
   <img src="https://profile-counter.glitch.me/stuartmoseley/count.svg" alt="Stuart Moseley :: Visitor's Count" />
 </div>
