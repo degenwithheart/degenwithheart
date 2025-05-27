@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Stuart%20Moseley&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%7C%20Cloud%20%7C%20AR/VR%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20%7C%20DevOps&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hi+there!+I'm+Stuart+Moseley;+Welcome+to+my+GitHub!;Ask+me+anything+or+connect+with+me+below!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Stuart%20Moseley&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=F7F9FB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&duration=3000&pause=1000&color=07D8FF&center=true&vCenter=true&multiline=true&width=900&height=200&lines=👋+Hi+there!+I'm+Stuart+Moseley" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="images/github-contribution-grid-snake.svg" />
@@ -19,9 +19,9 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="50" height="50" style="margin-right: 10px;">
     <b>About Me</b>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCErIr/giphy.gif" width="50" height="50" style="margin-left: 10px;">
   </h2>
 </div>
 
@@ -29,25 +29,25 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">I'm a passionate software developer focused on:</h3>
+        <h3 align="center">👾 Romantic builder, heart on-chain, alpha in code</h3>
         <ul>
-          <li>🤖 AI, AR/VR, and cloud computing</li>
-          <li>☁️ Full-stack development</li>
-          <li>🛠️ DevOps and developer experience</li>
-          <li>🎮 Game development using Unity and Unreal Engine</li>
-          <li>🌐 Open-source innovation and building smart solutions</li>
+          <li>🤖 Chasing AI ghosts by day, vibing to AR/VR beats by night</li>
+          <li>🌩️ Full-stack storm chaser — backend thumper, frontend dreamweaver</li>
+          <li>🔧 DevOps by trade, serenader by vibe</li>
+          <li>🎮 Spinning up worlds in Unity & Unreal, chasing the perfect frame like a degen chases green candles</li>
+          <li>🌍 On a quest for open-source magic and smart, soulful solutions</li>
         </ul>
         <p align="center">
           <b>
-            I specialize in training personal AI models, working on open-source projects,<br/>
-            and creating innovative solutions that blend the latest in AI and cloud with real-world applications.<br/>
-            Let's build something amazing together! 🚀
+            I sculpt personal AI, hack on open-source, and remix reality with code & cloud.<br/>
+            Off the clock? I’m in the memecoin trenches—heart racing, fingers flying.<br/>
+            Building is my love language. Let’s craft something that breaks the mold—and maybe a few hearts—together. 🚀
           </b>
         </p>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=stuartmoseley&show_icons=true&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartmoseley&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
+        <img src="https://github-readme-stats.vercel.app/api?username=stuartmoseley&show_icons=true&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartmoseley&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9"/>
       </td>
     </tr>
   </table>
@@ -120,14 +120,15 @@
   </tr>
 </table>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-    <b>Achievement & Project Showcase</b>
-    <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30" height="30" style="margin-left: 10px;">
-  </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=stuartmoseley&theme=alglia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophy Case" />
-</div>
+---
+
+## 🎤 Degen Serenade: Alpha, Love, and Chaos on Crypto Twitter
+
+I’m also the mind & muse behind **Stuart | Degen Serenade (@DegenWithHeart)** — a romantic crypto degen who trades memecoins by day and drops emotionally charged alpha by night.
+
+Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love, trading, and music with raw degen energy. Humor, metaphors, and punchy statements are all part of the experience. Think heartbreak meets gas fees, chart glow meets synth wave.
+
+---
 
 <div align="center">
   <h2>
@@ -145,6 +146,7 @@
 - **GitHub:** [stuartmoseley](https://github.com/stuartmoseley)
 - **Email:** stuartmoseley2025@icloud.com
 - **Freelancer:** [illuminateaternu](https://www.freelancer.com/u/illuminateaternu)
+- **X (Twitter):** [@DegenWithHeart](https://x.com/DegenWithHeart)
 
 ---
 
