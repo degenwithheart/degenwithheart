@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Stuart%20Moseley&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=F7F9FB" />
   <br/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/stuartmoseley/stuartmoseley/main/images/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/stuartmoseley/stuartmoseley/main/images/github-contribution-grid-snake.svg" />
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuartmoseley&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
   </div>
