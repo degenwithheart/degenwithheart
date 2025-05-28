@@ -133,9 +133,6 @@ Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love,
 
 ### 📬 How to Reach Me
 
-- **GitHub:** [degenwithheart](https://github.com/degenwithheart)
-- **Email:** degenwithheart2025@icloud.com
-- **Freelancer:** [illuminateaternu](https://www.freelancer.com/u/illuminateaternu)
 - **X (Twitter):** [@DegenWithHeart](https://x.com/DegenWithHeart)
 
 ---
