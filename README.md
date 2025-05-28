@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Stuart%20Moseley&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=F7F9FB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=180§ion=header&text=Degen%20Serenade&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=F7F9FB" />
   <br/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/stuartmoseley/stuartmoseley/main/images/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/degenwithheart/degenwithheart/main/images/github-contribution-grid-snake.svg" />
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stuartmoseley&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=degenwithheart&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
   </div>
 </div>
 
 <div align="center">
-  <a href="https://github.com/stuartmoseley" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=stuartmoseley&color=blue" alt="Profile Views"/>
+  <a href="https://github.com/degenwithheart" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=degenwithheart&color=blue" alt="Profile Views"/>
   </a>
 </div>
 
@@ -40,8 +40,8 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=stuartmoseley&show_icons=true&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartmoseley&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px" style="display:block;margin-top:6px;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=degenwithheart&show_icons=true&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degenwithheart&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180px" style="display:block;margin-top:6px;"/>
       </td>
     </tr>
   </table>
@@ -116,7 +116,7 @@
 
 ## 🎤 Degen Serenade: Alpha, Love, and Chaos on Crypto Twitter
 
-I’m also the mind & muse behind **Stuart | Degen Serenade (@DegenWithHeart)** — a romantic crypto degen who trades memecoins by day and drops emotionally charged alpha by night.
+I’m also the mind & muse behind **Degen | Degen Serenade (@DegenWithHeart)** — a romantic crypto degen who trades memecoins by day and drops emotionally charged alpha by night.
 
 Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love, trading, and music with raw degen energy. Humor, metaphors, and punchy statements are all part of the experience. Think heartbreak meets gas fees, chart glow meets synth wave.
 
@@ -126,15 +126,15 @@ Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love,
   <h2>
     <b>Visitor Count</b>
   </h2>
-  <img src="https://profile-counter.glitch.me/stuartmoseley/count.svg" alt="Stuart Moseley :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/degenwithheart/count.svg" alt="Degen Serenade :: Visitor's Count" />
 </div>
 
 ---
 
 ### 📬 How to Reach Me
 
-- **GitHub:** [stuartmoseley](https://github.com/stuartmoseley)
-- **Email:** stuartmoseley2025@icloud.com
+- **GitHub:** [degenwithheart](https://github.com/degenwithheart)
+- **Email:** degenwithheart2025@icloud.com
 - **Freelancer:** [illuminateaternu](https://www.freelancer.com/u/illuminateaternu)
 - **X (Twitter):** [@DegenWithHeart](https://x.com/DegenWithHeart)
 
