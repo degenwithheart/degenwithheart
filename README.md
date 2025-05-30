@@ -135,6 +135,8 @@ Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love,
 
 - **X (Twitter):** [@DegenWithHeart](https://x.com/DegenWithHeart)
 
+- **TG (TeleGram):** [@DegenWithHeart]([https://x.com/DegenWithHeart](https://t.me/DegenWithHeart))
+
 ---
 
 **Feel free to check out my repositories and connect with me! Let's build something amazing together! 🚀**
