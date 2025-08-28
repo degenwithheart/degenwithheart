@@ -135,8 +135,12 @@ Expect tweets that are chaotic, spicy, poetic, and alpha-rich — blending love,
 
 - **X (Twitter):** [@DegenWithHeart](https://x.com/DegenWithHeart)
 
-- **TG (TeleGram):** [@DegenWithHeart](https://t.me/DegenWithHeart)
-
 ---
 
 **Feel free to check out my repositories and connect with me! Let's build something amazing together! 🚀**
+
+---
+
+A friendly, open-source builder and memecoin experimenter, if you vibe with my work and want to support more degen, AI, and creative projects, consider a tip at:
+**SOL: 4U3kLekCh53rXxxQE3hSbqoKKLzZpLYYZRTc26R8mnGe**
+Every bit fuels more open-source magic. Thank you!
