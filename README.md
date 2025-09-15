@@ -106,7 +106,3 @@ If you’re reading this, roll for initiative.
   </i><br>
   🚦🌹🎲🦩🌙✨
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/degenwithheart/count.svg" alt="Visitor Count" />
-</p>
