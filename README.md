@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://github.com/degenwithheart/degenwithheart/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=degenwithheart/degenwithheart&anon=1" alt="Top Contributors" />
+  </a>
+  <br>
+  <a href="https://github.com/degenwithheart/degenwithheart/stargazers"><img src="https://img.shields.io/github/stars/degenwithheart/degenwithheart" alt="Stars Badge"/></a>
+  <a href="https://github.com/degenwithheart/degenwithheart/pulls"><img src="https://img.shields.io/github/issues-pr/degenwithheart/degenwithheart" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/degenwithheart/degenwithheart/issues"><img src="https://img.shields.io/github/issues/degenwithheart/degenwithheart" alt="Issues Badge"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/VIBE-🌹%20Romantic%20Degen-ff006e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MODE-Glitch%20%7C%20Neon-8338ec?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ENERGY-Slow%20Burn%20%7C%20High%20Pulse-3a86ff?style=for-the-badge" />
@@ -87,6 +97,18 @@ If you’re reading this, roll for initiative.
   <a href="https://github.com/degenwithheart/SentienceX-AI">SentienceX-AI 🧠</a> &nbsp;|&nbsp;
   <a href="https://github.com/degenwithheart/LightChain-AIO">LightChain-AIO 💡</a> &nbsp;|&nbsp;
   <a href="https://github.com/degenwithheart/AI-Development-Assistant">AI-Development-Assistant 🤖</a>
+</p>
+
+---
+
+<div align="center">
+  <pre>
+🟣🟢 [CONTRIBUTOR GLITCHBOARD] 🟠🔵
+  </pre>
+</div>
+
+<p align="center">
+  <a href="https://github.com/degenwithheart/degenwithheart/graphs/contributors"><img src="https://img.shields.io/github/contributors/degenwithheart/degenwithheart?color=2b9348"></a>
 </p>
 
 ---
