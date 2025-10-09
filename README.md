@@ -85,7 +85,7 @@ If you’re reading this, roll for initiative.
     <li>Mint art that mints you back</li>
     <li>Compose a trading bot that falls in love</li>
     <li>Document all of this in the commit history of the cosmos</li>
-    <li>Drop: DegenCasino, SentienceX-AI, LightChain-AIO</li>
+    <li>Drop: DegenCasino, Gamba-Platform-with-Supabase-and-Capacitor, Real-Time-Backend-Preview, UK-Digital-ID-Platform</li>
   </ul>
 </details>
 
@@ -94,9 +94,9 @@ If you’re reading this, roll for initiative.
 <p align="center">
   <b>Artifacts circulating:</b><br>
   <a href="https://github.com/degenwithheart/DegenCasino">DegenCasino 🎲</a> &nbsp;|&nbsp;
-  <a href="https://github.com/degenwithheart/SentienceX-AI">SentienceX-AI 🧠</a> &nbsp;|&nbsp;
-  <a href="https://github.com/degenwithheart/LightChain-AIO">LightChain-AIO 💡</a> &nbsp;|&nbsp;
-  <a href="https://github.com/degenwithheart/AI-Development-Assistant">AI-Development-Assistant 🤖</a>
+  <a href="https://github.com/degenwithheart/Gamba-Platform-with-Supabase-and-Capacitor">Gamba Platform 💻</a> &nbsp;|&nbsp;
+  <a href="https://github.com/degenwithheart/Real-Time-Backend-Preview">Real-Time Backend Preview ⚡</a> &nbsp;|&nbsp;
+  <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">UK Digital ID Platform 🪪</a>
 </p>
 
 ---
