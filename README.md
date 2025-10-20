@@ -92,12 +92,29 @@ If you’re reading this, roll for initiative.
 ---
 
 <p align="center">
-  <b>Artifacts circulating:</b><br>
-  <a href="https://github.com/degenwithheart/DegenCasino">DegenCasino 🎲</a> &nbsp;|&nbsp;<br>
-  <a href="https://github.com/degenwithheart/SentienceX-AI">SentienceX-AI</a> &nbsp;|&nbsp;<br>
-  <a href="https://github.com/degenwithheart/DegenHF-The-Next-Gen-Authentication-Encryption-Framework">DegenHF Next-Gen Authentication Framework</a> &nbsp;|&nbsp;<br>
-  <a href="https://github.com/degenwithheart/Real-Time-Backend-Preview">Real-Time Backend Preview ⚡</a> &nbsp;|&nbsp;<br>
-  <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">UK Digital ID Platform 🪪</a>
+  <img src="https://img.shields.io/badge/💾%20ARTIFACTS-Circulating-ff4ecd?style=for-the-badge&logoColor=white&labelColor=9d4edd&color=00b4d8" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/degenwithheart/DegenCasino">
+    <b>DegenCasino 🎲</b>
+  </a> — Instant payouts. No accounts. 100% on-chain games. Built with TypeScript.<br>
+
+  <a href="https://github.com/degenwithheart/SentienceX-AI">
+    <b>SentienceX-AI 🤖</b>
+  </a> — Offline, proactive & self-aware AI. Built with Python.<br>
+
+  <a href="https://github.com/degenwithheart/DegenHF-The-Next-Gen-Authentication-Encryption-Framework">
+    <b>DegenHF Next-Gen Authentication Framework 🔐</b>
+  </a> — Blockchain-grade security for traditional apps, without the blockchain. Built with Python.<br>
+
+  <a href="https://github.com/degenwithheart/Real-Time-Backend-Preview">
+    <b>Real-Time Backend Preview ⚡</b>
+  </a> — Hosted backend providing live, real-time API responses for frontend developers.<br>
+
+  <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">
+    <b>UK Digital ID Platform 🪪</b>
+  </a> — Privacy-preserving national digital identity system for the UK. Built with Rust, Go, Kotlin, TypeScript & Python.<br>
 </p>
 
 ---
