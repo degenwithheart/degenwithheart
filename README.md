@@ -94,7 +94,8 @@ If you’re reading this, roll for initiative.
 <p align="center">
   <b>Artifacts circulating:</b><br>
   <a href="https://github.com/degenwithheart/DegenCasino">DegenCasino 🎲</a> &nbsp;|&nbsp;
-  <a href="https://github.com/degenwithheart/Gamba-Platform-with-Supabase-and-Capacitor">Gamba Platform 💻</a> &nbsp;|&nbsp;
+  <a href="https://github.com/degenwithheart/SentienceX-AI">SentienceX-AI</a> &nbsp;|&nbsp;
+  <a href="https://github.com/degenwithheart/DegenHF-The-Next-Gen-Authentication-Encryption-Framework">DegenHF Next-Gen Authentication Framework</a> &nbsp;|&nbsp;
   <a href="https://github.com/degenwithheart/Real-Time-Backend-Preview">Real-Time Backend Preview ⚡</a> &nbsp;|&nbsp;
   <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">UK Digital ID Platform 🪪</a>
 </p>
