@@ -97,23 +97,23 @@ If you’re reading this, roll for initiative.
 
 <p align="center">
   <a href="https://github.com/degenwithheart/DegenCasino">
-    <b>DegenCasino 🎲</b>
+    <b>DegenHeart Casino</b>
   </a> — Instant payouts. No accounts. 100% on-chain games.<br>
 
   <a href="https://github.com/degenwithheart/SentienceX-AI">
-    <b>SentienceX-AI 🤖</b>
+    <b>SentienceX-AI</b>
   </a> — Offline, proactive & self-aware AI.<br>
 
   <a href="https://github.com/degenwithheart/DegenHF-The-Next-Gen-Authentication-Encryption-Framework">
-    <b>DegenHF Next-Gen Authentication Framework 🔐</b>
+    <b>DegenHF Next-Gen Authentication Framework</b>
   </a> — Blockchain-grade security for traditional apps, without the blockchain.<br>
 
   <a href="https://github.com/degenwithheart/SupaSocial">
-    <b>Next-Gen Social Networking Platform ⚡</b>
-  </a> — Social Network Platform, Utilizing DegenHF for security & SentienceX (eventually for the AI)<br>
+    <b>Next-Gen Social Networking Platform</b>
+  </a> — Social Network Platform, Utilizing DegenHF for security & SentienceX (eventually for AI).<br>
 
   <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">
-    <b>UK Digital ID Platform 🪪</b>
+    <b>UK Digital ID Platform</b>
   </a> — Privacy-preserving national digital identity system for the UK.<br>
 </p>
 
