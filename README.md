@@ -110,7 +110,7 @@ If you’re reading this, roll for initiative.
 
   <a href="https://github.com/degenwithheart/SupaSocial">
     <b>Social Networking Platform</b>
-  </a> — Social Network platform utilizing DegenHF for security & SentienceX (eventually for AI).<br>
+  </a> — Social Network utilizing DegenHF for security & SentienceX (eventually for AI).<br>
 
   <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">
     <b>UK Digital ID Platform</b>
