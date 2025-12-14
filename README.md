@@ -108,9 +108,9 @@ If you’re reading this, roll for initiative.
     <b>DegenHF Next-Gen Authentication Framework 🔐</b>
   </a> — Blockchain-grade security for traditional apps, without the blockchain.<br>
 
-  <a href="https://github.com/degenwithheart/Real-Time-Backend-Preview">
-    <b>Real-Time Backend Preview ⚡</b>
-  </a> — Hosted backend providing live, real-time API responses for frontend developers.<br>
+  <a href="https://github.com/degenwithheart/SupaSocial">
+    <b>Next-Gen Social Networking Platform ⚡</b>
+  </a> — Social Networking done right, Utilizing DegenHF for security & SentienceX (eventually for the AI)<br>
 
   <a href="https://github.com/degenwithheart/UK-Digital-ID-Platform">
     <b>UK Digital ID Platform 🪪</b>
